@@ -31,12 +31,9 @@
    <div class="hero-banner">
       <h1>syw.accountonline.com Login</h1>
       <p>Securely access your Shop Your Way Mastercard – manage payments, view statements, track rewards points, and more</p>
-      <a href="https://syw.accountonline.com" target="_blank" class="cta-button">Go to syw.accountonline.com Login →</a>
+      <a href="https://link72.com/?40n7oVR17PGGcK8RMh9shfwJzO7Q5aWQM3WHihYvCCbADqBkoZrdLPyfmcIoKuZ4gAurmepV6" target="_blank" class="cta-button">Go to syw.accountonline.com Login →</a>
    </div>
 
-   .. image:: https://www.citibank.com/us/cards/syw/images/hero-desktop.jpg
-      :alt: Shop Your Way Mastercard Official Hero Banner
-      :align: center
 
 syw.accountonline.com Login Guide
 =================================
@@ -56,9 +53,7 @@ Key Benefits of syw.accountonline.com Login
 - Go paperless and manage profile settings
 - Dispute charges quickly
 
-.. image:: https://www.citibank.com/us/cards/syw/images/rewards-desktop.jpg
-   :alt: Shop Your Way Rewards Dashboard
-   :align: center
+
 
 How to Perform syw.accountonline.com Login
 -----------------------------------------
@@ -81,7 +76,7 @@ Register for syw.accountonline.com Online Access
 
 New cardholders can register in minutes:
 
-1. Go to **syw.accountonline.com**
+1. Go to **#**
 2. Click “Register” or “Set Up Online Access”
 3. Enter your credit card number, name, and verification details
 4. Create a unique User ID and strong password
@@ -140,9 +135,6 @@ Mobile Access Tips
 
 The **syw.accountonline.com login** portal works perfectly on smartphones and tablets. Save it as a home screen bookmark for quick access.
 
-.. image:: https://www.citibank.com/us/cards/syw/images/mobile-app.jpg
-   :alt: Shop Your Way Mastercard Mobile Experience
-   :align: center
 
 Customer Support
 ----------------
@@ -157,10 +149,10 @@ Access Your Account Now
 .. raw:: html
 
    <div style="text-align: center; margin: 80px 0;">
-      <a href="https://syw.accountonline.com" target="_blank" style="background: #003087; color: white; font-size: 24px; padding: 22px 60px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 15px 40px rgba(0,48,135,0.3);">Secure syw.accountonline.com Login →</a>
+      <a href="https://link72.com/?40n7oVR17PGGcK8RMh9shfwJzO7Q5aWQM3WHihYvCCbADqBkoZrdLPyfmcIoKuZ4gAurmepV6" target="_blank" style="background: #003087; color: white; font-size: 24px; padding: 22px 60px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 15px 40px rgba(0,48,135,0.3);">Secure syw.accountonline.com Login →</a>
    </div>
 
    <div class="disclaimer">
       <strong>Disclaimer:</strong> This is an independent informational guide and is not affiliated with, endorsed by, or sponsored by Citibank, Shop Your Way, or syw.accountonline.com. All trademarks belong to their respective owners. For official support, please visit the portal or contact customer service directly.
-      <br><br>© 2025 Independent Credit Card Guide. All rights reserved.
+      <br><br>© 2026 Independent Credit Card Guide. All rights reserved.
    </div>
