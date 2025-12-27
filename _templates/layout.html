@@ -1,0 +1,37 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for Shop Your Way Mastercard guide #}
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Google & Bing Verification (replace with your actual codes if you have them) -->
+    <meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE" />
+    <meta name="msvalidate.01" content="YOUR_BING_VERIFICATION_CODE" />
+    
+    <!-- Primary SEO Meta Tags -->
+    <meta name="description" content="Complete guide to accessing your Shop Your Way Mastercard account at syw.accountonline.com. Securely view statements, make payments, track rewards points, manage your card, and resolve common access issues." />
+    <meta name="keywords" content="syw.accountonline.com, syw accountonline, shop your way mastercard account, syw.accountonline.com access, syw credit card portal, shop your way rewards management, syw mastercard account online, syw card management" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ pathto(master_doc, 1) }}" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Shop Your Way Mastercard Account Guide – syw.accountonline.com" />
+    <meta property="og:description" content="Securely manage your Shop Your Way Mastercard at syw.accountonline.com. View balances, make payments, track rewards points, and handle all account activities with this step-by-step guide." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ pathto(master_doc, 1) }}" />
+    <meta property="og:image" content="https://www.citi.com/CRD/images/citishop/cardart_creditcards.webp" />
+    <meta property="og:image:alt" content="Shop Your Way Mastercard Card" />
+    <meta property="og:site_name" content="Shop Your Way Mastercard Guide" />
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Shop Your Way Mastercard Account Guide – syw.accountonline.com" />
+    <meta name="twitter:description" content="Access and manage your Shop Your Way Mastercard account securely at syw.accountonline.com. Payments, statements, rewards, and more." />
+    <meta name="twitter:image" content="https://www.citi.com/CRD/images/citishop/cardart_creditcards.webp" />
+    <meta name="twitter:image:alt" content="Shop Your Way Mastercard" />
+    
+    <!-- Page Title -->
+    <title>Shop Your Way Mastercard Account Guide – syw.accountonline.com</title>
+    
+    {{ super() }}
+{% endblock %}
