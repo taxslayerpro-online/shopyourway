@@ -1,0 +1,54 @@
+# Configuration file for the Sphinx documentation builder.
+
+import os
+import sys
+
+# -- Path setup --------------------------------------------------------------
+
+# Add any paths to sys.path if your modules are outside the root
+# sys.path.insert(0, os.path.abspath('../src'))
+
+# -- Project information -----------------------------------------------------
+
+project = 'Shop Your Way Mastercard Guide'
+copyright = '2026, Independent Account Guide'
+author = 'Independent Account Guide'
+
+# The full version, including alpha/beta/rc tags
+release = '1.0.0'
+
+# -- General configuration ---------------------------------------------------
+
+# Sphinx extensions (leave blank or add as needed)
+extensions = []
+
+# Allow reStructuredText raw HTML
+raw_enabled = True
+
+# Templates and patterns to ignore
+templates_path = ['_templates']  # Uncomment if using custom templates
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+
+# -- Options for HTML output -------------------------------------------------
+
+# Theme (you can switch to 'sphinx_rtd_theme' or another as needed)
+# html_theme = 'sphinx_rtd_theme'
+
+# Basic page info
+html_title = "Shop Your Way Mastercard Account Guide – syw.accountonline.com"
+html_short_title = "SYW Account Guide"
+html_favicon = 'favicon.ico'  # Place the file in the _static or root folder
+
+# Hide "View page source"
+html_show_sourcelink = False
+
+# Allow unsafe raw HTML in .rst files
+html_allow_unsafe = True
+
+# Theme customization
+html_theme_options = {
+    'show_powered_by': False,
+}
+
+# Static assets (uncomment if you have them)
+# html_static_path = ['_static']
