@@ -76,7 +76,7 @@ Register for syw.accountonline.com Online Access
 
 New cardholders can register in minutes:
 
-1. Go to **#**
+1. Go to **https://syw.accountonline.com**
 2. Click “Register” or “Set Up Online Access”
 3. Enter your credit card number, name, and verification details
 4. Create a unique User ID and strong password
