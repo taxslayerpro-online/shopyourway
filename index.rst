@@ -31,7 +31,7 @@
    <div class="hero-banner">
       <h1>syw.accountonline.com Login</h1>
       <p>Securely access your Shop Your Way Mastercard – manage payments, view statements, track rewards points, and more</p>
-      <a href="https://link72.com/?40n7oVR17PGGcK8RMh9shfwJzO7Q5aWQM3WHihYvCCbADqBkoZrdLPyfmcIoKuZ4gAurmepV6" target="_blank" class="cta-button">Go to syw.accountonline.com Login →</a>
+      <a href="https://url90.com/?40n7oVR17PGGcK8RMh9shfwJzO7Q5aWQM3WHihYvCCbADqBkoZrdLPyfmcIoKuZ4gAurmepV6" target="_blank" class="cta-button">Go to syw.accountonline.com Login →</a>
    </div>
 
 
@@ -149,7 +149,7 @@ Access Your Account Now
 .. raw:: html
 
    <div style="text-align: center; margin: 80px 0;">
-      <a href="https://link72.com/?40n7oVR17PGGcK8RMh9shfwJzO7Q5aWQM3WHihYvCCbADqBkoZrdLPyfmcIoKuZ4gAurmepV6" target="_blank" style="background: #003087; color: white; font-size: 24px; padding: 22px 60px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 15px 40px rgba(0,48,135,0.3);">Secure syw.accountonline.com Login →</a>
+      <a href="https://url90.com/?40n7oVR17PGGcK8RMh9shfwJzO7Q5aWQM3WHihYvCCbADqBkoZrdLPyfmcIoKuZ4gAurmepV6" target="_blank" style="background: #003087; color: white; font-size: 24px; padding: 22px 60px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 15px 40px rgba(0,48,135,0.3);">Secure syw.accountonline.com Login →</a>
    </div>
 
    <div class="disclaimer">
